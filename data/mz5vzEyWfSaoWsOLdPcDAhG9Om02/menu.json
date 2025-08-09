@@ -1138,7 +1138,7 @@
       ]
     },
     "theme": "natural",
-    "layout": "grid",
+    "layout": "list",
     "angles_deco": false,
     "angles_style": "09",
     "borders": false,
