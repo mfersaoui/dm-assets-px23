@@ -1115,7 +1115,7 @@
   },
   "qrcode": {
     "header": "",
-    "currentVersion": 21,
+    "currentVersion": 23,
     "background": "",
     "template": {
       "categories": [
@@ -1138,7 +1138,7 @@
       ]
     },
     "theme": "golden",
-    "layout": "grid",
+    "layout": "list",
     "angles_deco": false,
     "angles_style": "09",
     "borders": false,
