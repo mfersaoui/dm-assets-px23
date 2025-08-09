@@ -1115,7 +1115,7 @@
   },
   "qrcode": {
     "header": "",
-    "currentVersion": 25,
+    "currentVersion": 26,
     "background": "",
     "template": {
       "categories": [
@@ -1124,12 +1124,12 @@
           "name": "Nos Assiettes"
         },
         {
-          "id": "8053",
-          "name": "Finger food"
-        },
-        {
           "id": "8052",
           "name": "Sandwichs"
+        },
+        {
+          "id": "8053",
+          "name": "Finger food"
         },
         {
           "id": "8054",
