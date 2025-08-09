@@ -1137,7 +1137,7 @@
         }
       ]
     },
-    "theme": "golden",
+    "theme": "oldPaper",
     "layout": "grid",
     "angles_deco": false,
     "angles_style": "09",
