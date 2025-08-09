@@ -1115,7 +1115,7 @@
   },
   "qrcode": {
     "header": "",
-    "currentVersion": 27,
+    "currentVersion": 28,
     "background": "",
     "template": {
       "categories": [
@@ -1137,8 +1137,8 @@
         }
       ]
     },
-    "theme": "oldPaper",
-    "layout": "list",
+    "theme": "natural",
+    "layout": "grid",
     "angles_deco": false,
     "angles_style": "09",
     "borders": false,
